@@ -6,7 +6,7 @@
       flake = false;
     };
     omnisearch-src = {
-      url = "git+https://git.bwaaa.space/omnisearch?shallow=0";
+      url = "git+https://git.bwaaa.space/omnisearch?shallow=0&ref=indev";
       flake = false;
     };
   };

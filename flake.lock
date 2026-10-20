@@ -37,16 +37,17 @@
     "omnisearch-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1791072090,
-        "narHash": "sha256-PWT4tezp99dc5OJh+qxt5AoGyQo5FoNaP/JWgFQwvjU=",
-        "ref": "refs/heads/master",
-        "rev": "3fb6f96d13b3e83159887076c4eeb0644d62458c",
-        "revCount": 157,
+        "lastModified": 1791204967,
+        "narHash": "sha256-vHc2zQPHR49A2meefJswBRp1ha3M70eFawQ9t0r/Pr4=",
+        "ref": "indev",
+        "rev": "c9471adb9cb1dda2b2405a978e86bbe61abe441e",
+        "revCount": 160,
         "shallow": false,
         "type": "git",
         "url": "https://git.bwaaa.space/omnisearch"
       },
       "original": {
+        "ref": "indev",
         "shallow": false,
         "type": "git",
         "url": "https://git.bwaaa.space/omnisearch"
